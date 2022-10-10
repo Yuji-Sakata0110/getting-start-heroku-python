@@ -1,1 +1,1 @@
-web: gunicorn ディレクトリ名.wsgi --log-file -
+web: gunicorn testp.wsgi --log-file -
